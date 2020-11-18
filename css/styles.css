@@ -1,0 +1,28 @@
+<style>
+body {
+  background-color: #f4f4f2;
+}
+
+hr {
+  border-style: dotted none none;
+  height: 0px;
+  border-color: grey;
+  border-width: 5px;
+  width: 4%;
+}
+
+h1 {
+  color: #495464;
+  font-size: 39px;
+  font-family: 'Vast Shadow', cursive;
+
+}
+
+h3 {
+  color: #f05454;
+  font-size: 24px;
+  font-family: 'Boogaloo', cursive;
+
+}
+
+</style>
